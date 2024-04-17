@@ -85,7 +85,7 @@
             "pk": 490,
             "fields": {
                 "priority": 8,
-                "description": "The convention has arrived. Johnson’s chances arrive at a deadlocked convention, so he can do as much behind the scenes wheeling dealing behind the scenes to steal the nomination from Jack. To cause the deadlock, he’s rallying an “Anyone but Kennedy” movement with Humphrey, Adlai Stevenson, Stuart Symington, and the favorite sons to delay Jack’s victory. How will you ensure an early victory?\n",
+                "description": "The convention has arrived. Johnson’s chances arrive at a deadlocked convention, so he can do as much behind the scenes wheeling dealing behind the scenes to steal the nomination from Jack. To cause the deadlock, he’s rallying an “Anyone but Kennedy” movement with Humphrey, Adali Stevenson, Stuart Symington, and the favorite sons to delay Jack’s victory. How will you ensure an early victory?\n",
                 "likelihood": 1
             }
         },
@@ -220,7 +220,7 @@
             "pk": 1400,
             "fields": {
                 "priority": -2,
-                "description": "An odd matter has been brought to your attention. A few Bishops in Puerto Rico of all places have released a letter, telling Catholics that voting for a man opposed to the church is a sin. While this refers to the Puerto Rican gubernatorial race, the campaign is concerned that this will make Catholicism an issue again. \n",
+                "description": "An odd matter has been brought to your attention. A few Bishops in Puerto Rico of all places have released a letter, telling Catholics to not vote for a man opposed to the church. While this refers to the election of Puerto Rican Governor, the campaign is concerned that this will make Catholicism an issue again. \n",
                 "likelihood": 1
             }
         },
@@ -7023,7 +7023,7 @@
             "pk": 13525,
             "fields": {
                 "answer": 13555,
-                "candidate": 105,
+                "candidate": 107,
                 "affected_candidate": 105,
                 "global_multiplier": 0.08
             }
@@ -9455,7 +9455,7 @@
             "fields": {
                 "answer": 3760,
                 "candidate": 105,
-                "answer_feedback": "Jack hits back on the experience claim, pointing this accomplishments and the infamous “If you gave me a week” answer when Ike was asked how Nixon helped. Ike clarifies that he was joking - and if the <i>Vice-President</i> isn’t qualified, what does that make Jack? More qualified, but the public aren’t biting.\n"
+                "answer_feedback": "Jack hits back on the experience claim, pointing this accomplishments and the infamous “If you gave me a week” answer when Ike was asked how Nixon helped. Ike clarifies that he was joking - and if the <i>Vice-President</i> isn’t qualified, what does that make Jack? More qualified, but the public aren’t biting.”\n"
             }
         },
         {
@@ -9572,7 +9572,7 @@
             "fields": {
                 "answer": 3682,
                 "candidate": 105,
-                "answer_feedback": "“Thank him profusely.” Jack breaks into a grin. “We need the South Bobby, there's no two ways about it.”"
+                "answer_feedback": "“Thank him profusely.” Jack breaks into a grin. “We need the South Bobby, there;s no two ways about it.”"
             }
         },
         {
@@ -9590,7 +9590,7 @@
             "fields": {
                 "answer": 3687,
                 "candidate": 105,
-                "answer_feedback": "Jack tells you in no uncertain terms will he lean into McCarthyism - certainly not during the primary. He issues a statement stressing a need to focus on external communism - a middle ground between denouncing McCarthyism and being tough on Communism."
+                "answer_feedback": "Jack tells you, in no uncertain terms, that he will not lean into McCarthyism - certainly not during the primary. He issues a statement stressing a need to focus on external communism - a middle ground between denouncing McCarthyism and being tough on Communism."
             }
         },
         {
@@ -9986,7 +9986,7 @@
             "fields": {
                 "answer": 3775,
                 "candidate": 105,
-                "answer_feedback": "It’s true that the Republicans haven’t handled foreign policy as well as they claim. Cuba, the missile gap, the collapse of the Paris summit. There’s plenty to criticize, and Jack has plenty of assertive answers for questions on how he would fix Ike’s many mistakes.\n"
+                "answer_feedback": "It’s true that the Republicans haven’t handled foreign policy as well as they claim . Cuba, the missile gap, the collapse of the Paris summit. There’s plenty to criticize, and Jack has plenty of assertive answers for questions on how he would fix Ike’s many mistakes.\n"
             }
         },
         {
@@ -10435,7 +10435,7 @@
                 }
             }, 100);
         }
-    return "<h3><q>And for the first time since 1824, no candidate has secured a majority in the electoral college. Joining us to explain what this means is constitutional law expert Richard Kerry.</q></h3><p>Bobby felt sick. All his work, all that money, all for the exact opposite of progress. The states rights scum had maneuvered things in such a way that they had become the most powerful bloc in the nation.</p><p>There was always the possibility that rejecting the Dixiecrats could backfire. But this really is the worst possible outcome. Jack, after all he’s promised, cannot find any ground to negotiate with Byrd and his scum. Nixon will also find himself in a tight spot, with his prominent Black supporters, but Bobby wouldn’t be surprised if Nixon revealed himself as a lilly-white to steal this election.</p><p>Everything has gone so horribly wrong. Race relations will be set back decades, segregation will be all but enshrined for a minimum of 4 years. People will look back fondly on Eisenhower’s bare minimum. Dad hasn’t given up, and intends to call every single favor he can get, but it’s clear Jack has. The best thing that could be said is that hopefully Jack is set up for a comfortable 1964 - he <i>must</i> win, to undo the upcoming terror.</p>" 
+    return "<h3><q>And for the first time since 1824, no candidate has secured a majority in the electoral college. Joining us to explain what this means is constitutional law expert Richard Kerry.</q></h3><p>Bobby felt sick. All his work, all that money, all for the exact opposite of progress. The states rights scum had maneuvered things in such a way that they had become the most powerful bloc in the nation.</p><p>There was always the possibility that rejecting the Dixiecrats could backfire. But this really is the worst possible outcome. Jack, after all he’s promised, cannot find any ground to negotiate with Byrd and his scum. Nixon will also find himself in a tight spot, with his prominent Black supporters, but Bobby wouldn’t be surprised if Nixon revealed himself as a lilly-white to steal this election.</p><p>Everything has gone so horribly wrong. Race relations will be set back decades, segregation will be all but enshrined for a minimum of 4 years. People will look back fondly on Esienhower’s bare minimum. Dad hasn’t given up, and intends to call every single favor he can get, but it’s clear Jack has. The best thing that could be said is that hopefully Jack is said up for a comfortable 1964 - he <i>must</i> win, to undo the upcoming terror.</p>" 
     }     else if(quickstats[0] >= 200 && quickstats[0] < 268){
         if (used != true) {
             setInterval(function () {
@@ -10488,7 +10488,7 @@ HistHexcolour=["#8080ff","#bb0707","#dfdf68"];
 HistName=["John F. Kennedy","Richard M. Nixon","Harry Byrd", "N/A"];
 HistEV=[284,203,50,0];
 HistPV=["32,582,045","30,926,452","2,822,366","0"];
-HistPVP=["49.2.2%","46.7%","4.1%","0"];
+HistPVP=["49.2%","46.7%","4.1%","0"];
 
 function onGameWindowChangeCandidates() {
     const resultsTableHolder = document.getElementById("overall_details_container");
